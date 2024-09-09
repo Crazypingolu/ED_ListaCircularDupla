@@ -1,0 +1,9 @@
+package controller;
+import model.estrutura.CircularDupla;
+import model.estrutura.No;
+
+public class CircularDuplaController{
+	public CircularDuplaController(){
+		super();
+	}
+}
